@@ -1,0 +1,1 @@
+update post set likes = 300 where id = 2
